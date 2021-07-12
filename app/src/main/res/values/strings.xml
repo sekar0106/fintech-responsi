@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Responsi Fintech</string>
+    <string name="recovery">Recovery Account</string>
+    <string name="register">Register Account</string>
+    <string name="bayar_dulu">BayarDulu</string>
+    <string name="profil">Profile</string>
+    <string name="payment">Payment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -8,12 +8,12 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ResponsiFintech">
-        <activity android:name=".Home.HomeActivity"></activity>
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"></activity>
         <activity android:name=".Login.RegisterActivity" />
         <activity android:name=".Login.RecoveryActivity" />
         <activity android:name=".Login.LoginActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".Home.HomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
